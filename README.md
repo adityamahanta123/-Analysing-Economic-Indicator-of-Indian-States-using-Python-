@@ -1,0 +1,2 @@
+# -Analysing-Economic-Indicator-of-Indian-States-using-Python-
+Analyzing economic indicators of Indian states: Using different Indian states GDP , GDP per capita and Population as economic indicators, comparative studies were done to get a picture of wealth distribution across the country. Here  geo panda  libraries were used to plot different states of India with its  economic indicators  based  on the dataset available 
